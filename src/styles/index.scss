@@ -1,7 +1,7 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
 div{
-   background: black;   
+   background:blueviolet;   
    margin: auto;
    text-align: center;
    color: white;
@@ -9,10 +9,12 @@ div{
    padding: 0;   
 }
 div.contador1{    
-    border: 2px solid gray;
+    border: 3px solid gray;
     border-radius: 25px;
     width: 220px;
     height: 155px;
+
+    
 }
 
 /* 
